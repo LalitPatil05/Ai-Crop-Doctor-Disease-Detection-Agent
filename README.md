@@ -42,7 +42,7 @@ Follow these simple steps to use AI Crop Doctor effectively:
 
 ## 🗂 Project Structure
 ```bash
-📁 ai-crop-disease-detection-agent/
+📁 Ai-Crop-Doctor-Disease-Detection-Agent/
 │__📄 app.py
 │__📄 class_indices.json
 │__📄 crop_diagnosis_best_model.tflite
@@ -80,9 +80,9 @@ Follow these simple steps to use AI Crop Doctor effectively:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ai-crop-disease-detection-agent.git
+git clone https://github.com/your-username/Ai-Crop-Doctor-Disease-Detection-Agent.git
 
-cd ai-crop-disease-detection-agent
+cd Ai-Crop-Doctor-Disease-Detection-Agent
 ```
 2. Install dependencies:
 ```bash
